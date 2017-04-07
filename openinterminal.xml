@@ -1,0 +1,6 @@
+<application>
+  <component name="OpenInTerminalSettings">
+    <option name="terminalCommand" value="C:\windows\syswow64\cmd.exe" />
+    <option name="terminalCommandOptions" value="/k" />
+  </component>
+</application>

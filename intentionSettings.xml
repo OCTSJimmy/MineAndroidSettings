@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Android/Add URL" />
+    <ignoreAction name="Android/Insert App Indexing API Code" />
+    <ignoreAction name="Java/Declaration/Split Declaration" />
+    <ignoreAction name="Java/Modifiers/Make Package-Local" />
+  </component>
+</application>

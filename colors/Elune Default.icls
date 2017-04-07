@@ -1,0 +1,46 @@
+<scheme name="Elune Default" version="142" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="LARGE" />
+  <option name="EDITOR_FONT_NAME" value="Microsoft YaHei UI" />
+  <attributes>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff03ee" />
+        <option name="ERROR_STRIPE_COLOR" value="ff03ee" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bb08" />
+        <option name="ERROR_STRIPE_COLOR" value="bb08" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff1500" />
+        <option name="ERROR_STRIPE_COLOR" value="ff1500" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="92ff" />
+        <option name="ERROR_STRIPE_COLOR" value="92ff" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff6200" />
+        <option name="ERROR_STRIPE_COLOR" value="ff6200" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

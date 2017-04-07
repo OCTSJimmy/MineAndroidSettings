@@ -1,0 +1,10 @@
+<application>
+  <component name="BuglyKeysManager">
+    <TeamManager />
+    <AppId>6c20d05f42</AppId>
+    <AppKey>dc582100-5abc-41fc-a8d0-ffc866a6377f</AppKey>
+    <ExpId>02de733f-04fa-48a9-9ad3-a430f5d66c1f</ExpId>
+    <ApkFilePath>D:/ZhiNanTeach/Doctor/app/app-prod-release-1.0.9_legu_signed_zipalign.apk</ApkFilePath>
+    <FLAG>true</FLAG>
+  </component>
+</application>
