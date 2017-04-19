@@ -3,8 +3,8 @@
     <TeamManager />
     <AppId>6c20d05f42</AppId>
     <AppKey>dc582100-5abc-41fc-a8d0-ffc866a6377f</AppKey>
-    <ExpId>02de733f-04fa-48a9-9ad3-a430f5d66c1f</ExpId>
+    <ExpId>5444cd78-2731-48ae-a72f-1a65583ed998</ExpId>
     <ApkFilePath>D:/ZhiNanTeach/Doctor/app/app-dev-release-1.1.0.apk</ApkFilePath>
-    <FLAG>false</FLAG>
+    <FLAG>true</FLAG>
   </component>
 </application>
