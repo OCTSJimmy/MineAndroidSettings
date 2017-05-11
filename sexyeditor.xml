@@ -2,7 +2,32 @@
   <component name="SexyEditor">
     <option name="configs">
       <list>
-        <BackgroundConfiguration />
+        <BackgroundConfiguration>
+          <option name="fileNames">
+            <array>
+              <option value="H:\Users\Pictures\桌布\00.jpg" />
+              <option value="H:\Users\Pictures\桌布\01.jpg" />
+              <option value="H:\Users\Pictures\桌布\02.jpg" />
+              <option value="H:\Users\Pictures\桌布\03.jpg" />
+              <option value="H:\Users\Pictures\桌布\05.jpg" />
+              <option value="H:\Users\Pictures\桌布\414999.jpg" />
+              <option value="H:\Users\Pictures\桌布\415004.jpg" />
+              <option value="H:\Users\Pictures\桌布\418806.jpg" />
+              <option value="H:\Users\Pictures\桌布\6.jpg" />
+              <option value="H:\Users\Pictures\桌布\9.jpg" />
+              <option value="H:\Users\Pictures\桌布\IDR_THEME_NTP_BACKGROUND.jpg" />
+              <option value="H:\Users\Pictures\桌布\t013ffef2f1e6c75b8a.jpg" />
+              <option value="H:\Users\Pictures\桌布\xjqxz.jpg" />
+              <option value="H:\Users\Pictures\桌布\xjqxz2.jpg" />
+              <option value="H:\Users\Pictures\桌布\yr_1012_1920.jpg" />
+              <option value="H:\Users\Pictures\桌布\两条懒猫.jpg" />
+              <option value="H:\Users\Pictures\桌布\关机壁纸.png" />
+              <option value="H:\Users\Pictures\桌布\壁纸1.png" />
+              <option value="H:\Users\Pictures\桌布\壁纸2.png" />
+              <option value="H:\Users\Pictures\桌布\壁纸3.png" />
+            </array>
+          </option>
+        </BackgroundConfiguration>
       </list>
     </option>
   </component>
