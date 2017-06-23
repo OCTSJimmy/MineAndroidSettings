@@ -4,7 +4,7 @@
     <AppId>6c20d05f42</AppId>
     <AppKey>dc582100-5abc-41fc-a8d0-ffc866a6377f</AppKey>
     <ExpId>72f0b55b-18e2-4ba3-8f50-214be774a45b</ExpId>
-    <ApkFilePath>D:/ZhiNanTeach/Doctor/app/app-prod-release-1.1.9_legu_signed_zipalign.apk</ApkFilePath>
+    <ApkFilePath>D:/ZhiNanTeach/Doctor/app/app-prod-release-1.1.10_legu_signed_zipalign.apk</ApkFilePath>
     <FLAG>true</FLAG>
   </component>
 </application>
