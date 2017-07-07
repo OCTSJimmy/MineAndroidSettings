@@ -1,5 +1,13 @@
 <application>
   <component name="ToStringTemplates">
     <option name="defaultTempalteName" value="StringBuffer" />
+    <option name="templates">
+      <list>
+        <TemplateResource>
+          <option name="fileName" value="ReportApi" />
+          <option name="template" value="public java.lang.String toString() {&#10;final java.lang.StringBuffer sb = new java.lang.StringBuffer()&#10;#set ($i = 0)&#10;#foreach ($member in $members)&#10;#if ($i != 0)&#10;sb.append(&quot;, &quot;)&#10;#end&#10;&#10;#if ($member.primitiveArray)&#10;;&#10;if ($member.name == null) ##&#10;sb.append(&quot;null&quot;);&#10;else {&#10;sb.append('[');&#10;for (int i = 0; i &lt; $member.name .length; ++i)&#10;sb.append(i == 0 ? &quot;&quot; : &quot;, &quot;).append($member.name [i]);&#10;sb.append(']');&#10;}&#10;#elseif ($member.objectArray)&#10;.append($member.name == null ? &quot;null&quot; : java.util.Arrays.asList($member.name).toString());&#10;#else&#10;.append($member.accessor);&#10;#end&#10;#set ($i = $i + 1)&#10;#end&#10;return sb.toString();&#10;}" />
+        </TemplateResource>
+      </list>
+    </option>
   </component>
 </application>
