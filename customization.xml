@@ -34,7 +34,13 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="Git.Fetch" icon="D:/Android Studio/icons/cherryPick_dark.png" />
+    <group value="Tool_External Tools_Emulator" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <action id="ChangesView.Commit" icon="D:/Android Studio/icons/CodeAssistantClass.png" />
+    <action id="Tool_External Tools_Emulator" />
+    <action id="Git.Fetch" icon="D:/Android Studio/icons/cherryPick_dark.png" />
   </component>
 </application>
