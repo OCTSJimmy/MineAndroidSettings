@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="build.*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,6 +17,14 @@
       <mask>*.mxml</mask>
       <mask>*xml</mask>
       <mask>*.java</mask>
+      <mask>*build</mask>
+      <mask>*.build</mask>
+      <mask>b</mask>
+      <mask>bu</mask>
+      <mask>buil</mask>
+      <mask>build</mask>
+      <mask>build.</mask>
+      <mask>build.*</mask>
     </recentFileMasks>
   </component>
 </application>
