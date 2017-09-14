@@ -6,8 +6,16 @@
   </component>
   <component name="TodoConfiguration">
     <pattern icon="question" pattern="\btodo\b.*" />
-    <pattern icon="important" pattern="\bfixme\b.*" />
-    <pattern pattern="\bsign\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="c0000b" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="ab0010" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="\bsign\b.*">
+      <option name="FOREGROUND" value="38b8fe" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="38b8fe" />
+    </pattern>
     <pattern useCustomColors="true" pattern="\bdone\b.*">
       <option name="FOREGROUND" value="8c8c8c" />
       <option name="FONT_TYPE" value="2" />
