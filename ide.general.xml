@@ -11,5 +11,6 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.tooltip.initialDelay" value="311" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
   </component>
 </application>
