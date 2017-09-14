@@ -6,4 +6,18 @@
       <option name="WORKING_DIRECTORY" value="D:/AndroidSDK/tools" />
     </exec>
   </tool>
+  <tool name="Emulator-24" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\AndroidSDK\tools\emulator.exe" />
+      <option name="PARAMETERS" value=" @Nexus_5X_Edited_API_24 -dns-server 114.114.114.114,223.5.5.5" />
+      <option name="WORKING_DIRECTORY" value="D:/AndroidSDK/tools" />
+    </exec>
+  </tool>
+  <tool name="Emulator-23" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\AndroidSDK\tools\emulator.exe" />
+      <option name="PARAMETERS" value=" @Nexus_5X_Edited_API_23 -dns-server 114.114.114.114,223.5.5.5" />
+      <option name="WORKING_DIRECTORY" value="D:/AndroidSDK/tools" />
+    </exec>
+  </tool>
 </toolSet>
