@@ -1,11 +1,11 @@
 <scheme name="Elune Darcula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Microsoft YaHei UI" />
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_NAME" value="Microsoft YaHei UI" />
     <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Microsoft YaHei" />
