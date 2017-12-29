@@ -31,6 +31,10 @@
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="ReciteWords">
+    <keyboard-shortcut first-keystroke="alt q" />
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="h" />
   </action>
