@@ -130,9 +130,13 @@
           <option name="url" value="http://code.zhinantech.com" />
           <option name="userName" value="guohemin" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@code.zhinantech.com:yanmengjun/voice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Demo" />
+    <option name="cloneParentDir" value="D:\ZhinanTech" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
