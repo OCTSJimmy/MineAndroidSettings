@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
   <tool name="Emulator" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="D:\AndroidSDK\tools\emulator.exe" />
-      <option name="PARAMETERS" value=" @Nexus_5X_Edited_API_25 -dns-server 114.114.114.114,223.5.5.5" />
-      <option name="WORKING_DIRECTORY" value="D:/AndroidSDK/tools" />
+      <option name="COMMAND" value="D:\AndroidSDK\emulator\emulator.exe" />
+      <option name="PARAMETERS" value=" @Nexus_5X_Edited_API_27 -dns-server 114.114.114.114,223.5.5.5" />
+      <option name="WORKING_DIRECTORY" value="D:/AndroidSDK/emulator" />
     </exec>
   </tool>
   <tool name="Emulator-24" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
