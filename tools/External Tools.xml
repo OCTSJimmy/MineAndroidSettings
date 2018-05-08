@@ -1,8 +1,15 @@
 <toolSet name="External Tools">
-  <tool name="Emulator" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="寝室网模拟器" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="D:\AndroidSDK\emulator\emulator.exe" />
       <option name="PARAMETERS" value="@Nexus_5X_Edited_API_27 -dns-server 192.168.31.1,114.114.114.114" />
+      <option name="WORKING_DIRECTORY" value="D:/AndroidSDK/emulator" />
+    </exec>
+  </tool>
+  <tool name="公司网模拟器" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\AndroidSDK\emulator\emulator.exe" />
+      <option name="PARAMETERS" value="@Nexus_5X_Edited_API_27 -dns-server 192.168.1.1,114.114.114.114" />
       <option name="WORKING_DIRECTORY" value="D:/AndroidSDK/emulator" />
     </exec>
   </tool>
