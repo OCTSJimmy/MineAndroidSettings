@@ -1,6 +1,7 @@
 <application>
   <component name="HttpConfigurable">
     <option name="PROXY_TYPE_IS_SOCKS" value="true" />
+    <option name="USE_PROXY_PAC" value="true" />
     <option name="PROXY_HOST" value="www.elune.top" />
     <option name="PROXY_PORT" value="11616" />
     <option name="KEEP_PROXY_PASSWORD" value="true" />
